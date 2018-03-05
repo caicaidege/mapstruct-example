@@ -1,0 +1,2 @@
+# mapstruct
+mapstruct是一个支持根据注解映射bean的框架，类似于beanutils，但相较于更加灵活
